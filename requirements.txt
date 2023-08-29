@@ -4,13 +4,12 @@ itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
-numpy
-scipy
-sklearn
-matplotlib
-pandas
-flasgger
-streamlit
-seaborn
-scikit-learn
+Numpy
+Scipy
+Matplotlib
+Pandas
+Flasgger
+Streamlit
+Seaborn
+Scikit-learn
 
